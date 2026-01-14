@@ -6,7 +6,7 @@
 
 #include "logger.hpp"
 
-#include "colourStream.h"
+#include "colourStream.hpp"
 
 namespace HengCore
 {

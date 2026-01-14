@@ -31,7 +31,7 @@ namespace Cgroup
         static const std::filesystem::path &
         getSubSystemDir(SubSystem ss);
 
-        void writeTo(SubSystem                    subSystem,
+        void writeTo(SubSystem subSystem,
                      const std::filesystem::path &file,
                      std::string content) const;
 
